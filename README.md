@@ -60,4 +60,4 @@
  
 - :mailbox:Контактная информация: 
 - Email : Hitry33@yandex.ru
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30">][https://t.me/HitryDmitry33]
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30">](https://t.me/HitryDmitry33)
