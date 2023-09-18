@@ -59,5 +59,5 @@
  ---
  
 - :mailbox:Контактная информация: 
-- Email : Maltcev.Igor@bk.ru
-- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30">](https://t.me/MaltcevIgor/)
+- Email : Hitry33@yandex.ru
+- [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="30">][https://t.me/HitryDmitry33]
